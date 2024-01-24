@@ -7,7 +7,7 @@ In Unreal Engine 5, selecting the Y-axis flip option results in the images thems
 
 Regardless of the intended usage, this option in Unreal Engine 5 has caused issues when importing Worldmachine height files. The Worldmachine Y Flipper script aims to rectify this situation by flipping the Y values in the filenames of both height and weight map files.
 
-This script is versatile and can handle various tile amounts, as long as the number of tiles is equal on each side. It automatically calculates the number of tiles it needs to rename, ensuring a seamless process. For example, with a 20x20 tile setup, the script will rename _y00 to _y19, _y01 to _y18, _y02 to _y17, and so forth. Similarly, for an 8x8 tile configuration, _y00 will become _y07, and so on.
+This script can handle various tile amounts, as long as the number of tiles is equal on each side. It automatically calculates the number of tiles it needs to rename. For example, with a 20x20 tile setup, the script will rename _y00 to _y19, _y01 to _y18, _y02 to _y17, and so forth. Similarly, for an 8x8 tile configuration, _y00 will become _y07, and so on.
 
 
 ## Usage
