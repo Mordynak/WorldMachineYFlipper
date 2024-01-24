@@ -32,6 +32,9 @@ This script is versatile and can handle various tile amounts, as long as the num
 7. **Status Display:**
    - The status bar at the bottom of the GUI will indicate the completion of the process and provide the destination folder where the flipped files have been copied.
 
+## Example
+![Before](/Images/UnrealEditor_APdmjLa2Ts.jpg?raw=true "Before")
+![After](/Images/UnrealEditor_TO8Ff1v4tf.jpg?raw=true "After")
 ## Features
 - Scan a selected folder for files with Y values.
 - Create flipped copies of files with Y values.
